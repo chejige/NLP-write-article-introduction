@@ -1,0 +1,57 @@
+It has been established in the lithium-ion battery (LIB) community
+layered two-dimensional nanomaterials are efﬁcient structures for the reversible storage of Li+. 
+The common graphite anode is a good example. 
+Graphite, however, comes with the disadvantage of its capacity being limited by the LiC6 stoichiometry (372 mAh g− 1). 
+There is, therefore, a strong motivation to search for high-capacity alternatives to graphite. 
+MoS2, a layered transition-metal dichalcogen- ide, has drawn the most interest. 
+MoS2 consists of a layer of hexagonally packed Mo atoms between two S layers, which is repeated ad inﬁnitum. 
+The Mo–S interaction is covalent in character and strong
+whereas the interaction between adjacent S layers is governed by weak van der Waals forces
+MoS2 has to be suitably exfoliated to be an effective Li+ storage host. 
+Exfoliated MoS2 has shown a capacity of ~ 950 mAh g− 1 at 50 mA g− 1 for at least 100 cycles
+The electrochemical performance of MoS2 can be further improved by the formation of a composite with graphene.
+ Graphene (G), an intrinsic two-dimensional material, 
+is often introduced during the MoS2 synthesis to guide the formation of MoS2 sheets and create a sheet-on-sheet or sheets-on-sheets heterostructure. 
+The compatible geometry between transition-metal dichalcogenide and graphene 
+eads to a stable composite with good conductivity and very little capacity fading during charge and discharge operations.
+ Previous studies have suggested that 
+the electrochemical performance of MoS2/ graphene composites as a LIB anode material 
+is strongly dependent on the structure, especially the layer thickness.
+ MoS2/graphene composites with different layer thicknesses could be formed by hydrothermal synthesis or reﬂux methods.
+The  composites  with better performance can deliver a capacity of 1000–1200 mAh g− 1 at 0.1 A g− 1 and ~ 700–800 mAh g− 1 at 1 A g− 1. 
+After years of development, the improvement of the electrochemical perfor-  mance of MoS2 through structural modiﬁcations has probably reached its limits. 
+Further improvements of the Li+ storage properties of MoS2 would have to be based on an understanding of the Li+ storage mechanism in MoS2.
+ The reactions involved in the storage process are still  not  well  understood,  
+although  more  is  known  today than was known previously. 
+There is  increasing  evidence  for  MoS2 decomposition when it is discharged (lithiated) below 1.1 V vs Li/Li+ (MoS2+4Li+ → Mo+2Li2S).
+The reaction is irreversible and yields Li2S and Mo. Subsequent charging and discharging, therefore, cycles the battery like a Li-S cell 
+ Amazingly, the ‘Li-S cell’ formed as such is free from some of the greatest challenges in the Li-S system: 
+the low conductivity of S and the notorious polysulﬁde shuttle effect during discharge and charge. 
+Although a MoS2-derived Li-S cathode does not have the high gravimetric capacity of S
+its capacity fading is signiﬁcantly lower than that of a typical Li-S cell. 
+It is believed that the Mo from MoS2 decomposition contribute to the increase in conductivity of an otherwise insulating Li2S matrix. 
+Disperse Mo atoms may also act as pinning sites for the polysulﬁdes to suppress their migration from the cathode.
+ The capacity of MoS2 based on the eaction is, 
+theoretically, 669 mAh g− 1. The experi- mentally measured speciﬁc capacities are often larger than this value, 
+with the extra capacity often attributed to the association of Li+ with Mo.
+ A recent review article noted that nanostructured molybde- num particles may also participate in the lithiation reaction to some extent, 
+serving as physical adsorption sites for the Li ions.
+Such a property may not be unique to Mo, 
+and it is likely that other metal nanoparticles or even nanoclusters (NCs), may also associate with Li+.
+ We report here a further modiﬁcation of the MoS2/graphene Li+ storage system 
+based on the current understanding of the storage mechanism and the additional presence of a small amount (1 wt%) of Ag NCs.
+The new ternary composite prepared in this way, denoted as MoS2/G/Ag, 
+showed by far the best performance among the MoS2 family of LIB anodes
+The Ag NCs used in our design are small  Ag nanoparticles 
+hat have been reported to display molecular-like properties and some promising features for a wide range of applications
+Ag NCs were chosen for a number of reasons
+including (1) the strong binding between Ag and S, 
+(2) the large surface area of NCs compared with nanoparticles, 
+which could reduce the usage of Ag, and
+ the fact that the small size of Ag NCs may allow them to be inserted into the gallery space between the MoS2 layer and the graphene layer. 
+The measured high-capacity and high- rate performance of the MoS2/G/Ag composite aptly 
+demonstrated the effectiveness of the NC modiﬁcation in enhancing the performance of transition-metal dichalcogenide-based LIB anode materials. 
+The Ag NC enhancement effects, including the immobilization of S, 
+the association of Li+, and the increase in the distance between the graphene sheets 
+,are presented in detail in the following section.
+
